@@ -5,7 +5,7 @@ pdf-js-inject，能够将js代码注入到pdf文件中,也可以注入xss-payloa
 ## 下载
 
 ```md
-git clone https://github.com/youmulijiang/pdf-js-inject
+git clone https://github.com/youmulijiang/pdf-js-inject.git
 cd pdf-js-inject
 pip install requirements.txt
 python pdf-js-inject.py
