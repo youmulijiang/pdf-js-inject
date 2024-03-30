@@ -11,6 +11,12 @@ pip install requirements.txt
 python pdf-js-inject.py
 ```
 
+## 使用
+```md
+python pdf-js-inject.py -h 命令行方式
+python pdf-js-inject-gui 开启gui模式
+```
+
 ## 使用截图
 
 ![1711805264544](image/readme/1711805264544.png)![1711805317365](image/readme/1711805317365.png)![1711807383421](image/readme/1711807383421.png)
